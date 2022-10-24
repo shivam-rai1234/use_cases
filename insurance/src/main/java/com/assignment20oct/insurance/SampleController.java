@@ -24,6 +24,7 @@ public class SampleController {
 	
 	@GetMapping("/abhitayu sharma")
 	public List<ClientEntity> getjoi(){
+		
 		return c1.getjoin(1);
 	
 	}
