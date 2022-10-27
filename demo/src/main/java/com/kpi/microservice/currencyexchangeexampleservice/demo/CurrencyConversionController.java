@@ -115,7 +115,7 @@ public class CurrencyConversionController  {
 			  }
 		  }
 		  //Dirham
-		  if (from.equals(currency5))
+		  if (from.equals(currency4))
 		  {
 			  if (to.equals(currency1)) 
 			  {
@@ -144,7 +144,7 @@ public class CurrencyConversionController  {
 			  }
 		  }
 		  //pound
-		  if (from==currency5)
+		  if (from.equals(currency5))
 		  {
 			  if (to.equals(currency1)) 
 			  {
